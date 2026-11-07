@@ -1,0 +1,17 @@
+{
+  "name": "Ваня и машинки",
+  "short_name": "Ваня и машинки",
+  "description": "Интерактивные сказки и мини-игры про Ваню и его друзей-машинок",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#2f8fe8",
+  "theme_color": "#2f8fe8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
